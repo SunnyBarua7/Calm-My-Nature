@@ -6,7 +6,7 @@
 
 ## 🧠 Project Purpose
 
-This project was developed as part of my undergraduate thesis at **Nantong University**, with the goal of exploring how digital nature simulations can support **mental well-being**. The game encourages relaxation through immersive visuals, natural soundscapes, and gentle user interaction, serving as a prototype for therapeutic game design.
+This project was developed as part of my undergraduate thesis at Nantong University. The goal was to explore how digital nature simulations can support mental well-being. The game encourages relaxation through immersive visuals, natural soundscapes, and gentle user interaction, serving as a prototype for therapeutic game design.
 
 ---
 
@@ -22,15 +22,11 @@ This project was developed as part of my undergraduate thesis at **Nantong Unive
 
 ## 📁 Folder Structure
 
-Calm-My-Nature/
+Calm-My-Nature/ 
 ├── Assets/ # Unity assets: scenes, scripts, models, audio
 ├── Packages/ # Unity package dependencies
 ├── ProjectSettings/ # Unity project configuration
 └── README.md # Project documentation
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -54,35 +50,6 @@ This project will be extended to connect with an **Arduino Uno** and a **heart r
 - In Unity, modify visuals/audio based on heart rate
 
 *(This feature is in progress and not yet part of the current build.)*
-
----
-
-## 📜 Thesis Context
-
-This project was completed for my undergraduate thesis in Computer Science:
-
-> **Title**: *Design and Implementation of a Mental Relaxation Game in a Natural Environment Using Unity*  
-> **Student**: Sunny Barua  
-> **University**: Nantong University  
-> **Program**: BSc in Computer Science (English-Taught)
-
----
-
-## 🧪 Planned Enhancements
-
-- 🫀 Real-time heart rate feedback system (Arduino Uno)
-- 🌅 Dynamic lighting and visual effects based on user calmness
-- 🔊 Adaptive audio transitions
-- 🪵 More interactive environmental features (e.g., campfire, birds flying)
-- 📊 Emotional data logging (for academic research)
-
----
-
-## 🧑‍💻 Author
-
-**Sunny Barua**  
-GitHub: [@SunnyBarua7](https://github.com/SunnyBarua7)  
-Email: sunnybarua7@gmail.com
 
 ---
 
